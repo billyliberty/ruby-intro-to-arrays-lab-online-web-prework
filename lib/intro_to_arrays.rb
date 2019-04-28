@@ -9,5 +9,5 @@ end
 
 def array(element)
   @array = ["dog", "cat", "mouse", "shark"]
-  element = array[0]
+  element = array.first
 end
