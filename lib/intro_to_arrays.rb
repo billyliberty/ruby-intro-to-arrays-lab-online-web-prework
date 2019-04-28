@@ -32,5 +32,3 @@ def last_element_with_array_methods (last_country)
   @south_east_asia = ["Thailand", "Cambodia", "Vietnam", "Myanmar"]
   last_country = @south_east_asia.last_country
 end
-
-
